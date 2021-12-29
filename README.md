@@ -3,8 +3,11 @@
 <div>
   <a href="https://github.com/Gideon-VP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gideon-VP&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <!--
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon-VP&layout=compact&langs_count=7&theme=gruvbox"/>
+  -->
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
