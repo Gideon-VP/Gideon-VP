@@ -1,6 +1,6 @@
 ## Hello! I'm Inigo Montoya. You killed my dad, prepare to dead. _(Princess Bride, 1987)_
 
-<div>
+<div align='center'>
   <a href="https://github.com/Gideon-VP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gideon-VP&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <!--
@@ -8,7 +8,7 @@
   -->
 </div>
 
-<div style="display: inline_block"><br>
+<div align='center' style="display: inline_block"><br>
   <img align="center" alt="GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
