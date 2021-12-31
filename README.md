@@ -1,4 +1,4 @@
-## Hello! I'm Inigo Montoya. You killed my dad, prepare to dead. _(Princess Bride, 1987)_
+## Hello! I'm Inigo Montoya. You killed my dad, prepare to die. _(Princess Bride, 1987)_
 
 <div align='center'>
   <a href="https://github.com/Gideon-VP">
